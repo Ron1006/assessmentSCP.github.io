@@ -212,7 +212,7 @@ h4{
 
 .top-pic{
     height: 924px;
-    background-image: url('/images/scp003bg.jpg');
+    background-image: url('../images/scp003bg.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     border: 1px solid transparent; /* 添加透明边框，防止被子元素影响 */
@@ -566,7 +566,7 @@ h4{
 
 .item-class3{
     position: relative; /* 设置为相对定位 */
-    background-image: url(/images/cross.svg);
+    background-image: url(../images/cross.svg);
     height: 104px;
     width: 104px;
     margin-left: 40px;
