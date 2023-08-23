@@ -566,7 +566,7 @@ h4{
 
 .item-class3{
     position: relative; /* 设置为相对定位 */
-    background-image: url(/images/cross.svg);
+    background-image: url(../images/cross.svg);
     height: 104px;
     width: 104px;
     margin-left: 40px;
